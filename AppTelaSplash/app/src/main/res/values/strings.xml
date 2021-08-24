@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppTelaSplash</string>
+    <string name="main_button_label">Sair</string>
+    <string name="main_title_label">Aplicativo</string>
+    <string name="splash_title_label">Splash</string>
+    <string name="splash_version_label">V 1.0</string>
+    <string name="splash_icon_description">Icone do aplicativo</string>
+</resources>
